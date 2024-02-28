@@ -2,6 +2,10 @@
 
 This is a backend application for a voting system where users can vote for candidates. It provides functionalities for user authentication, candidate management, and voting.
 
+## API Design
+![Voting App API Design](<𝗔𝗣𝗜 𝗗𝗲𝘀𝗶𝗴𝗻 𝗳𝗼𝗿 𝗩𝗼𝘁𝗶𝗻𝗴 𝗔𝗽𝗽 𝗣𝗿𝗼𝗷𝗲𝗰𝘁.jpg>)
+
+
 ## Features
 
 - User sign up and login with Aadhar Card Number and password
