@@ -94,6 +94,7 @@ router.get('/profile', jwtAuthMiddleware, async (req, res) => {
     }
 })
 
+//This routes is for change the Password
 router.put('/profile/password', jwtAuthMiddleware, async (req, res) => {
     try {
         const userId = req.user.id; // Extract the id from the token
